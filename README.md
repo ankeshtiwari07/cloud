@@ -1,1 +1,2 @@
-# cloud
+The Repository comprises of the work and exploration which Ankesh Tiwari has done in the Cloud computing with respect to major cloud providers like AWS and GCP . 
+It Doesn't showcases various examples of creation of application and instances thus showcasing the skills he has obtained during varioud projects he has worked and delivered as Product Manager and Engineer Manager at different positions in different organizations . 
